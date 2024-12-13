@@ -6,7 +6,7 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 
 1. **Clona este repositorio**:
    ```bash
-   git clone
+   git clone https://github.com/abdielLopezpy/cleanAndTdd
    ```
 2. **Navega al directorio del proyecto**:
    ```bash
